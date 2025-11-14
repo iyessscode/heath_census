@@ -1,0 +1,55 @@
+{
+	"conditions": [
+		{
+			"name": "Thyroid",
+			"imagesrc": "https://unsplash.com/photos/medicine-healthcare-and-medical-exam-concept-doctor-or-nurse-checking-patients-tonsils-at-hospital-endocrinologist-examining-throat-of-young-woman-in-clinic-t16p92ckoGA",
+			"symptoms": [
+				"Fatigue",
+				"Weight gain or loss",
+				"Dry skin",
+				"Muscle weakness",
+				"Irregular menstrual periods"
+			],
+			"prevention": [
+				"Eat a balanced diet",
+				"Exercise regularly",
+				"Get regular check-ups"
+			],
+			"treatment": "Medication like levothyroxine may be prescribed by a doctor."
+		},
+		{
+			"name": "Diabetes",
+			"imagesrc": "https://unsplash.com/photos/a-couple-of-people-holding-hands-over-a-table-c0dXPjj0nio",
+			"symptoms": [
+				"Frequent urination",
+				"Increased thirst",
+				"Blurry vision",
+				"Fatigue",
+				"Slow healing of cuts or sores"
+			],
+			"prevention": [
+				"Maintain a healthy weight",
+				"Follow a balanced diet",
+				"Regular exercise"
+			],
+			"treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+		},
+		{
+			"name": "High Blood Pressure",
+			"imagesrc": "https://unsplash.com/photos/a-person-holding-a-thermometer-in-their-hand-rPD6c1ttcfM",
+			"symptoms": [
+				"Headaches",
+				"Shortness of breath",
+				"Chest pain",
+				"Dizziness",
+				"Blurred or double vision"
+			],
+			"prevention": [
+				"Reduce salt intake",
+				"Exercise regularly",
+				"Maintain a healthy weight"
+			],
+			"treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+		}
+	]
+}
