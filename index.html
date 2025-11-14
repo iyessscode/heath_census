@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Health Analysis Data</title>
+		<link rel="stylesheet" href="./health_analysis.css" />
+	</head>
+	<body>
+		<header>
+			<nav>
+				<h1 class="title-logo">Health Analysis Census</h1>
+				<ul>
+					<li><a href="./index.html" id="home">Home </a></li>
+					<li><a href="./health_contact.html" id="contact">Contact Us </a></li>
+					<li>
+						<input
+							type="text"
+							id="conditionInput"
+							placeholder="Enter a health condition"
+						/>
+					</li>
+					<li><button id="btnSearch">Search</button></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main class="container">
+			<div class="analysisForm">
+				<div class="card">
+					<h1 class="card-title">Healthcare Data Analysis</h1>
+					<div class="form-field">
+						<label for="name">Name</label>
+						<input type="text" id="name" style="width: auto" />
+					</div>
+					<div class="form-field">
+						<label>Gender</label>
+						<div class="input-radio">
+							<input type="radio" name="gender" id="male" value="Male" />
+							<label for="male">Male</label>
+						</div>
+						<div class="input-radio">
+							<input type="radio" name="gender" id="female" value="Female" />
+							<label for="female">Female</label>
+						</div>
+					</div>
+					<div class="form-field">
+						<label for="age">Age</label>
+						<input type="number" id="age" style="width: auto" />
+					</div>
+					<div class="form-field">
+						<label for="condition">Condition</label>
+						<select id="condition" style="width: auto">
+							<option value="">Select condition</option>
+							<option value="Diabetes">Diabetes</option>
+							<option value="Thyroid">Thyroid</option>
+							<option value="High Blood Pressure">High Blood Pressure</option>
+						</select>
+					</div>
+					<button id="addPatient">Add Patient</button>
+				</div>
+				<div class="analysisFormReport">
+					<h2>Analysis Report</h2>
+					<div id="report"></div>
+				</div>
+			</div>
+			<div class="searchCondition">
+				<div id="result"></div>
+			</div>
+		</main>
+		<script src="./health_analysis.js"></script>
+	</body>
+</html>
