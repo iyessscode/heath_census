@@ -2,7 +2,7 @@
 	"conditions": [
 		{
 			"name": "Thyroid",
-			"imagesrc": "https://unsplash.com/photos/medicine-healthcare-and-medical-exam-concept-doctor-or-nurse-checking-patients-tonsils-at-hospital-endocrinologist-examining-throat-of-young-woman-in-clinic-t16p92ckoGA",
+			"imagesrc": "https://plus.unsplash.com/premium_photo-1661779717978-d7937fa08250?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 			"symptoms": [
 				"Fatigue",
 				"Weight gain or loss",
@@ -19,7 +19,7 @@
 		},
 		{
 			"name": "Diabetes",
-			"imagesrc": "https://unsplash.com/photos/a-couple-of-people-holding-hands-over-a-table-c0dXPjj0nio",
+			"imagesrc": "https://plus.unsplash.com/premium_photo-1680221453924-fcc37377f18e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 			"symptoms": [
 				"Frequent urination",
 				"Increased thirst",
@@ -36,7 +36,7 @@
 		},
 		{
 			"name": "High Blood Pressure",
-			"imagesrc": "https://unsplash.com/photos/a-person-holding-a-thermometer-in-their-hand-rPD6c1ttcfM",
+			"imagesrc": "https://plus.unsplash.com/premium_photo-1678310819897-edfe9b9def64?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 			"symptoms": [
 				"Headaches",
 				"Shortness of breath",
